@@ -1,0 +1,30 @@
+adbe
+
+SHMA
+
+
+
+S->aH
+H->aMd
+H->d
+M->Ab
+M->@
+A->aM
+A->e
+end
+
+aaabd#
+
+
+
+
+( )i + *
+
+E A T B F
+
+E->TA
+A->+TA|@
+T->FB
+B->*FB|@
+F->(E)|i
+end

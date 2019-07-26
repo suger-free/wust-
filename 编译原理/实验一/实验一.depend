@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1555501976 source:e:\编译原理201701144057\实验一\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1555502360 source:g:\编译原理201701144057\实验一\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
